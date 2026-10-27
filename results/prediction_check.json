@@ -1,0 +1,10 @@
+{
+  "max_state_drift_m": 0.0,
+  "ego_position_error_mean_m": 0.0,
+  "ego_position_error_std_m": 0.0,
+  "ego_position_error_p95_m": 0.0,
+  "episodes": 30,
+  "dt_s": 0.2,
+  "horizon_s": 1.0,
+  "note": "IDLE ego controller matched the 5 Hz simulator over 1 s on 30 episodes; state restored with zero drift."
+}
